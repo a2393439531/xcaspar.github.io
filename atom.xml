@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Xcaspar]]></title>
+  <subtitle><![CDATA[42]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://xcaspar.com/"/>
+  <updated>2016-01-25T17:11:41.000Z</updated>
+  <id>http://xcaspar.com/</id>
+  
+  <author>
+    <name><![CDATA[xcaspar]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[New World]]></title>
+    <link href="http://xcaspar.com/2016/01/26/new-world/"/>
+    <id>http://xcaspar.com/2016/01/26/new-world/</id>
+    <published>2016-01-25T17:11:41.000Z</published>
+    <updated>2016-01-25T17:11:41.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/G0pZ8Q7.jpg" alt="new world"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://i.imgur.com/G0pZ8Q7.jpg" alt="new world"></p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
